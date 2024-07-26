@@ -11,7 +11,7 @@ int main(){
 	
 	
 	
-/*	cout<<"Enter the password: ";
+	cout<<"Enter the password: ";
 	cin>>password;
 	while(password<999999){
 		cout<<"The password does not meet the required condition,please enter the password again"<
